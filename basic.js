@@ -1,4 +1,4 @@
-let hej = "Hej med dig!";
+let hej = "Hej med dig! Hej";
 
 const array = ["peter", 7, "marianne", true, "helle", 8];
 
