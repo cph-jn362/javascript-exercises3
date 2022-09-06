@@ -1,3 +1,5 @@
+let hej = "Hej med dig!";
+
 const array = ["peter", 7, "marianne", true, "helle", 8];
 
 let text = "";
