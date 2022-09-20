@@ -1,3 +1,5 @@
+let hej = "Hej med dig! Hej";
+
 let person = "hej med dig";
 
 
